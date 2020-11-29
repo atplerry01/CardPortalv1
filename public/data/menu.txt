@@ -1,0 +1,10 @@
+    // {
+    //     "id": 22,
+    //     "categoryName": "UserManagement",
+    //     "categoryIcon": "fav",
+    //     "module": "UserManagement",
+    //     "moduleName": "User Management",
+    //     "access": "initiator",
+    //     "page_name": "Lookup Management",
+    //     "page_link": "/cards/admin/lookup-package"
+    // },

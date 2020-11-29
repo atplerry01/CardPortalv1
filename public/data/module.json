@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "module": "CardHotList",
+        "hasChildren": false
+    },
+    {
+        "id": 2,
+        "module": "CardSearch",
+        "hasChildren": false
+    },
+    {
+        "id": 3,
+        "module": "InstantCardRequest",
+        "hasChildren": false
+    },
+    {
+        "id": 3,
+        "module": "DebitCardRequest",
+        "hasChildren": true
+    },
+    {
+        "id": 3,
+        "module": "DirectDebit",
+        "hasChildren": true
+    },
+    {
+        "id": 4,
+        "module": "UserManagement",
+        "hasChildren": true
+    },
+    {
+        "id": 5,
+        "module": "RoleManagement",
+        "hasChildren": true
+    },
+    {
+        "id": 5,
+        "module": "Audit",
+        "hasChildren": false
+    }
+]

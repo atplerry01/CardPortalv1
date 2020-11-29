@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "order": 1,
+        "name": "Card Issuance",
+        "categoryName": "CardIssuance"
+    },
+    {
+        "id": 2,
+        "order": 2,
+        "name": "Card Support",
+        "categoryName": "CardSupport"
+    },
+    {
+        "id": 3,
+        "order": 3,
+        "name": "Card Processing",
+        "categoryName": "CardProcessing"
+    },
+    {
+        "id": 4,
+        "order": 4,
+        "name": "Card Management",
+        "categoryName": "CardManagement"
+    },
+    {
+        "id": 5,
+        "order": 5,
+        "name": "Card Report",
+        "categoryName": "CardReport"
+    },
+    {
+        "id": 6,
+        "order": 7,
+        "name": "Admin",
+        "categoryName": "Admin"
+    }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "41",
+    "Description": "Lost"
+  },
+  {
+    "Code": "43",
+    "Description": "Stolen"
+  },
+  {
+    "Code": "59",
+    "Description": "Fraud"
+  },
+  {
+    "Code": "05",
+    "Description": "Damaged"
+  },
+  {
+    "Code": "05",
+    "Description": "No Reason"
+  }
+]

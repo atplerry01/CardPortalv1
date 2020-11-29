@@ -1,0 +1,199 @@
+[
+    {
+        "id": 1,
+        "categoryName": "CardIssuance",
+        "categoryIcon": "fav",
+        "module": "InstanceCardRequest",
+        "moduleName": "Instance Card",
+        "access": "thirdparty",
+        "page_name": "Debit Card Request",
+        "page_link": "https://wema-hq-isi-app.wemabank.local/IssuancePortal/LoginPage.aspx?ReturnUrl=%2fIssuancePortal%2fDefault.aspx",
+        "external_link": true
+    },
+    {
+        "id": 1,
+        "categoryIcon": "fav",
+        "categoryName": "CardIssuance",
+        "module": "DebitCardRequest",
+        "access": "initiator",
+        "moduleName": "Debit Card",
+        "page_name": "Debit Card Request",
+        "page_link": "/cards/issuance/debit-cards",
+        "external_link": false
+    },
+    {
+        "id": 7,
+        "categoryIcon": "fav",
+        "categoryName": "CardIssuance",
+        "module": "DebitCardRequest",
+        "access": "authorizer",
+        "moduleName": "Card Authorizer",
+        "page_name": "Authorize Waive Charges",
+        "page_link": "/cards/authorizer",
+        "external_link": false
+    },
+    {
+        "id": 8,
+        "categoryIcon": "fav",
+        "categoryName": "CardIssuance",
+        "module": "DebitCardRequest",
+        "access": "extractor",
+        "moduleName": "Channel Support",
+        "page_name": "Card Extrations",
+        "page_link": "/cards/extractors",
+        "external_link": false
+    },
+    {
+        "id": 3,
+        "categoryIcon": "fav",
+        "categoryName": "CardIssuance",
+        "module": "DebitCardRequest",
+        "access": "cards",
+        "moduleName": "Card Unit",
+        "page_name": "Receiving Perso Cards",
+        "page_link": "/cards/unit/perso-receive",
+        "external_link": false
+    },
+    {
+        "id": 4,
+        "categoryIcon": "fav",
+        "categoryName": "CardIssuance",
+        "module": "DebitCardRequest",
+        "access": "cards",
+        "moduleName": "Card Unit",
+        "page_name": "Dispatch Perso Cards",
+        "page_link": "/cards/unit/perso-dispatch",
+        "external_link": false
+    },
+    {
+        "id": 5,
+        "categoryIcon": "fav",
+        "categoryName": "CardIssuance",
+        "module": "DebitCardRequest",
+        "access": "initiator",
+        "moduleName": "Card Unit",
+        "page_name": "Branch Card Delivery",
+        "page_link": "/cards/unit/delivery",
+        "external_link": false
+    },
+    {
+        "id": 6,
+        "categoryIcon": "fav",
+        "categoryName": "CardIssuance",
+        "module": "DebitCardRequest",
+        "moduleName": "Card Unit",
+        "access": "authorizer",
+        "page_name": "Branch Card Collection",
+        "page_link": "/cards/unit/collection",
+        "external_link": false
+    },
+    {
+        "id": 24,
+        "categoryIcon": "fav",
+        "categoryName": "CardManagement",
+        "module": "CardSearch",
+        "moduleName": "Card Search",
+        "access": "search",
+        "page_name": "Card Search",
+        "page_link": "/cards/cardsearch",
+        "external_link": false
+    },
+    {
+        "id": 25,
+        "categoryIcon": "fav",
+        "categoryName": "CardManagement",
+        "module": "CardHotList",
+        "moduleName": "Card HotList",
+        "access": "initiator",
+        "page_name": "Card HotList",
+        "page_link": "/cards/cardhotlist",
+        "external_link": false
+    },
+    {
+        "id": 26,
+        "categoryIcon": "fav",
+        "categoryName": "CardProcessing",
+        "module": "DirectDebit",
+        "moduleName": "Credit Card Direct Debit",
+        "access": "processor",
+        "page_name": "Alternate Accounts Mgt",
+        "page_link": "/cards/credit-cards/alternate-accounts",
+        "external_link": false
+    },
+    {
+        "id": 27,
+        "categoryIcon": "fav",
+        "categoryName": "CardProcessing",
+        "module": "DirectDebit",
+        "moduleName": "Credit Card Direct Debit",
+        "access": "processor",
+        "page_name": "Debit Advice Upload",
+        "page_link": "/cards/debit-advice-upload",
+        "external_link": false
+    },
+    {
+        "id": 27,
+        "categoryIcon": "fav",
+        "categoryName": "CardProcessing",
+        "module": "DirectDebit",
+        "moduleName": "Credit Card Direct Debit",
+        "access": "processor",
+        "page_name": "Exemption Mgt",
+        "page_link": "/cards/direct-debit-exemptions",
+        "external_link": false
+    },
+    {
+        "id": 21,
+        "categoryIcon": "fav",
+        "categoryName": "Admin",
+        "module": "UserManagement",
+        "access": "initiator",
+        "moduleName": "User Management",
+        "page_name": "User Profiling",
+        "page_link": "/cards/admin/user-profile",
+        "external_link": false
+    },{
+        "id": 21,
+        "categoryIcon": "fav",
+        "categoryName": "Admin",
+        "module": "UserManagement",
+        "access": "initiator",
+        "moduleName": "User Management",
+        "page_name": "Profiled Users",
+        "page_link": "/cards/admin/profiled-users",
+        "external_link": false
+    },
+    {
+        "id": 22,
+        "categoryIcon": "fav",
+        "categoryName": "Admin",
+        "module": "RoleManagement",
+        "access": "initiator",
+        "moduleName": "Role Management",
+        "page_name": "Role Access Mngt",
+        "page_link": "/cards/admin/role-access-management",
+        "external_link": false
+    },
+    {
+        "id": 23,
+        "categoryIcon": "fav",
+        "categoryName": "Admin",
+        "module": "RoleManagement",
+        "access": "initiator",
+        "moduleName": "Role Management",
+        "page_name": "Finacle Role Mngt",
+        "page_link": "/cards/admin/finacle-role-management",
+        "external_link": false
+    },
+    {
+        "id": 25,
+        "categoryIcon": "fav",
+        "categoryName": "Admin",
+        "module": "Audit",
+        "moduleName": "Audit Trail",
+        "access": "view",
+        "page_name": "Audit Log",
+        "page_link": "/cards/admin/audit-log",
+        "external_link": false
+    }
+]

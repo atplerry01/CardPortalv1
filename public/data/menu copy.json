@@ -1,0 +1,160 @@
+[
+    {
+        "id": 1,
+        "categoryName": "CardIssuance",
+        "categoryIcon": "fav",
+        "module": "InstanceCardRequest",
+        "moduleName": "Instance Card",
+        "access": "initiator",
+        "page_name": "Debit Card Request",
+        "page_link": "https://wema-hq-isi-app.wemabank.local/IssuancePortal/LoginPage.aspx?ReturnUrl=%2fIssuancePortal%2fDefault.aspx"
+    },
+    {
+        "id": 1,
+        "categoryName": "CardIssuance",
+        "categoryIcon": "fav",
+        "module": "DebitCardRequest",
+        "moduleName": "Debit Card",
+        "access": "initiator",
+        "page_name": "Debit Card Request",
+        "page_link": "/cards/issuance/debit-cards"
+    },
+    {
+        "id": 7,
+        "categoryName": "CardIssuance",
+        "categoryIcon": "fav",
+        "module": "DebitCardRequest",
+        "moduleName": "Card Authorizer",
+        "access": "authorizer",
+        "page_name": "Authorize Waive Charges",
+        "page_link": "/cards/authorizer"
+    },
+    {
+        "id": 8,
+        "categoryName": "CardIssuance",
+        "categoryIcon": "fav",
+        "module": "DebitCardRequest",
+        "moduleName": "Channel Support",
+        "access": "extractor",
+        "page_name": "Card Extrations",
+        "page_link": "/cards/extractors"
+    },
+    {
+        "id": 3,
+        "categoryName": "CardIssuance",
+        "categoryIcon": "fav",
+        "module": "DebitCardRequest",
+        "moduleName": "Card Unit",
+        "access": "cards",
+        "page_name": "Receiving Perso Cards",
+        "page_link": "/cards/unit/perso-receive"
+    },
+    {
+        "id": 4,
+        "categoryName": "CardIssuance",
+        "categoryIcon": "fav",
+        "module": "DebitCardRequest",
+        "moduleName": "Card Unit",
+        "access": "cards",
+        "page_name": "Dispatch Perso Cards",
+        "page_link": "/cards/unit/perso-dispatch"
+    },
+    {
+        "id": 5,
+        "categoryName": "CardIssuance",
+        "categoryIcon": "fav",
+        "module": "DebitCardRequest",
+        "moduleName": "Card Unit",
+        "access": "initiator",
+        "page_name": "Branch Card Delivery",
+        "page_link": "/cards/unit/delivery"
+    },
+    {
+        "id": 6,
+        "categoryName": "CardIssuance",
+        "categoryIcon": "fav",
+        "module": "DebitCardRequest",
+        "moduleName": "Card Unit",
+        "access": "authorizer",
+        "page_name": "Branch Card Collection",
+        "page_link": "/cards/unit/collection"
+    },
+    {
+        "id": 21,
+        "categoryName": "Admin",
+        "categoryIcon": "fav",
+        "module": "UserManagement",
+        "moduleName": "User Management",
+        "access": "initiator",
+        "page_name": "User Management",
+        "page_link": "/cards/admin/user-profile"
+    },
+    {
+        "id": 22,
+        "categoryName": "Admin",
+        "categoryIcon": "fav",
+        "module": "UserManagement",
+        "moduleName": "Role Management",
+        "access": "initiator",
+        "page_name": "Role Package Management",
+        "page_link": "/cards/admin/role-access-management"
+    },
+    {
+        "id": 23,
+        "categoryName": "Admin",
+        "categoryIcon": "fav",
+        "module": "UserManagement",
+        "moduleName": "Role Management",
+        "access": "initiator",
+        "page_name": "Finacle Role Management",
+        "page_link": "/cards/admin/finacle-role-management"
+    },
+    {
+        "id": 23,
+        "categoryName": "CardProcessing",
+        "categoryIcon": "fav",
+        "module": "CardHotList",
+        "moduleName": "Card HotList",
+        "access": "initiator",
+        "page_name": "Card HotList",
+        "page_link": "/cards/cardhotlist"
+    },
+    {
+        "id": 24,
+        "categoryName": "CardProcessing",
+        "categoryIcon": "fav",
+        "module": "CardSearch",
+        "moduleName": "Card Search",
+        "access": "initiator",
+        "page_name": "Card Search",
+        "page_link": "/cards/cardsearch"
+    },{
+        "id": 26,
+        "categoryName": "CardProcessing",
+        "categoryIcon": "fav",
+        "module": "CardHotList",
+        "moduleName": "Card HotList",
+        "access": "initiator",
+        "page_name": "Alternate Accounts",
+        "page_link": "/cards/credit-cards/alternate-accounts"
+    },{
+        "id": 27,
+        "categoryName": "CardProcessing",
+        "categoryIcon": "fav",
+        "module": "CardHotList",
+        "moduleName": "Card HotList",
+        "access": "initiator",
+        "page_name": "Direct Debit Exemptions",
+        "page_link": "/cards/direct-debit-exemptions"
+    },
+    {
+        "id": 25,
+        "categoryName": "UserManagement",
+        "categoryIcon": "fav",
+        "module": "UserManagement",
+        "moduleName": "User Management",
+        "access": "initiator",
+        "page_name": "Audit Log",
+        "page_link": "/cards/admin/audit-log"
+    }
+]

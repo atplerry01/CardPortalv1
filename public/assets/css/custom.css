@@ -1,0 +1,43 @@
+/* put your own styles to customize and override the theme */
+.thead-dd > .custom-control {
+  position: absolute;
+  top: -1em;
+  display: inline-block;
+}
+
+.auth-floated .auth-announcement {
+  background-color: purple !important;
+}
+
+.app-header-dark {
+  background-color: purple !important;
+  color: hsla(0, 0%, 100%, 0.8);
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: purple !important;
+  border-color: purple !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: purple !important;
+  border-color: purple !important;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.button {
+  display: inline-block;
+  margin: 0 4px;
+  text-align: center;
+}
+
+.selection:hover {
+  cursor: pointer;
+}
